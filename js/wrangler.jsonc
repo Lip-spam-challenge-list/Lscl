@@ -1,7 +1,7 @@
 	  {
-19:12:35.213	    "name": "worker-name",
-19:12:35.213	    "compatibility_date": "2026-01-20",
-19:12:35.213	    "assets": {
-19:12:35.213	      "directory": "./dist"
-19:12:35.214	    }
-19:12:35.214	  }
+	    "name": "worker-name",
+	    "compatibility_date": "2026-01-20",
+	    "assets": {
+	      "directory": "./dist"
+     }
+ }
