@@ -1,11 +1,11 @@
 {
-    "id": 0,
+    "id": 130893210,
     "name": "Lip spam challenge",
     "author": "Angopr",
-    "creators": [],
+    "creators": ["Angopr"],
     "verifier": "Angopr",
     "verification": "https://youtu.be/KhAkNemuDz8?si=0uizd_XB0-Gya_XT",
-    "percentToQualify": "100",
-    "fps":60
+    "percentToQualify": 100,
     "records": [
     ]
+}
