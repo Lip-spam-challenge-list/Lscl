@@ -1,0 +1,17 @@
+{
+    "id": 93409476,
+    "name": "The king of speed",
+    "author": "Je",
+    "creators": ["Je"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/gJsl9Qv04_E",
+    "percentToQualify": 100,
+    "records": [
+                                {
+            "user": "Angopr",
+            "link": "https://youtu.be/RFhXXB5UrZ0?si=UNgRwp-dnhoH9HUy",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
