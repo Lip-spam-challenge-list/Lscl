@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/DxyOBNxtURw?si=nB67dbtUezotNnRs",
     "percentToQualify": 100,
     "records": [
+                                {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/59AYn5EvTh8?si=qu-I-dIv2ouV8_oh",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
