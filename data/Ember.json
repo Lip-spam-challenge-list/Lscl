@@ -1,0 +1,17 @@
+{
+    "id": 67817078,
+    "name": "Ember",
+    "author": "Je",
+    "creators": ["Je"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/EZdvzxHMBuE?si=DZCbrldTJ5gCzW2J",
+    "percentToQualify": 100,
+    "records": [
+                                {
+            "user": "Dan",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1469108725372420258",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
