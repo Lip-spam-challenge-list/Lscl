@@ -1,11 +1,11 @@
 {
-    "id": 0,
+    "id": 130893210,
     "name": "Tree sam",
-    "author": "Angopr",
-    "creators": [],
+    "author": "Je",
+    "creators": ["Je"],
     "verifier": "Angopr",
     "verification": "https://youtu.be/DxyOBNxtURw?si=nB67dbtUezotNnRs",
-    "percentToQualify": "100",
-    "fps":60
+    "percentToQualify": 100,
     "records": [
     ]
+}
