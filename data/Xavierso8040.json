@@ -1,12 +1,11 @@
 {
     "id": 133193618,
-    "name": "Xavierso8040(Mouse)",
+    "name": "Xavierso8040(Mouse 80fps)",
     "author": "Aelzfr",
     "creators": ["Aelzfr,gmdmirror"],
     "verifier": "GdMirror"
     "verification": "https://youtu.be/Pddb3X6v64s?si=AoetYLBepnAqF_Wv",
     "percentToQualify": 100,
-    "fps":80
     "records": [
     ]
 }
