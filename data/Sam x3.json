@@ -1,10 +1,11 @@
 {
     "id": 132832222,
-    "name": "Sam x3(CBF)",
+    "name": "Sam x3",
     "author": "Dan",
     "creators": ["Je,dan"],
     "verifier": "Dan",
     "verification": "https://youtu.be/Pddb3X6v64s?si=AoetYLBepnAqF_Wv",
+        "fps":"CBF",
     "percentToQualify": 100,
     "records": [
     ]
