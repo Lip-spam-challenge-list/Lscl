@@ -7,5 +7,11 @@
     "verification": " ",
     "percentToQualify": 100,
     "records": [
+                                                {
+            "user": "Angopr",
+            "link": "https://youtu.be/SyTBDbDgDPM?si=EZv00Ka2pr1AzIDs",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
