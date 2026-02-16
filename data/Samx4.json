@@ -8,5 +8,11 @@
     "fps":"CBF",
     "percentToQualify": 100,
     "records": [
+                                                                {
+            "user": "Angopr",
+            "link": "https://youtu.be/H7xJXOLNAs8?si=FN2IiQzFCoxFWXdf",
+            "percent": 100,
+            "hz": "cbf"
+        }
     ]
 }
