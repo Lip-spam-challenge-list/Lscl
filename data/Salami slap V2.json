@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/jzfInSWp3Gs?si=iSVMkL-2H8DDcnGY",
     "percentToQualify": 100,
     "records": [
+                                                        {
+            "user": "GdMirror",
+            "link": "https://youtu.be/nZbBm-2dvRs",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
