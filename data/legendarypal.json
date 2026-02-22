@@ -10,7 +10,12 @@
     "records": [
                                                 {
             "user": "Angopr",
-            "link": "https://youtu.be/cwc03gyn5Bs?si=SFI7ImYrn4dt9s_O",
+            "percent": 100,
+            "hz": 60
+        },
+                                {
+            "user": "Dan",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1469108725372420258",
             "percent": 100,
             "hz": 60
         }
