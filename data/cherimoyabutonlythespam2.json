@@ -7,5 +7,10 @@
     "verification": "https://youtu.be/28_Nd60cuQE",
     "percentToQualify": 100,
     "records": [
+                              {
+            "user": "Dan",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
