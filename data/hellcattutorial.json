@@ -8,5 +8,18 @@
     "fps": "CBF",
     "percentToQualify": 100,
     "records": [
+                                                                                     {
+            "user": "vny",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1478483900433957005",
+            "percent": 100,
+            "hz": 60
+        },
+                                                                                             {
+            "user": "GdMirror",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1479601477600149565",
+            "percent": 100,
+            "hz": 60
+        }
+        
     ]
 }
