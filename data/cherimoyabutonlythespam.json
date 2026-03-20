@@ -8,5 +8,11 @@
     "fps": "60",
     "percentToQualify": 100,
     "records": [
+                                                                       {
+            "user": "GdMirror",
+            "link": "https://youtu.be/-6b_MuWkhoc?si=aH61gy43cySD8WKz",
+            "percent": 100,
+            "hz": "russia"
+        }
     ]
 }
