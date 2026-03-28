@@ -98,6 +98,22 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Description</h3>
+                    <p>
+                        This is the Lip Spam Challenge List (LSCL) for the game Geometry Dash. This list ranks the top 200 hardest lip spam challenges in the game, focusing on levels by enabling extremely high clicks-per-second (CPS) to pass intense, high-speed, or bug-heavy segments where traditional clicking fails. It specifically helps in navigating spam-heavy wave or orb sections, particularly in impossible or challenging custom levels where consistent, fast inputs are required over a short, frantic period.
+                    </p>
+                    <p>
+                        Lip spamming is an extremely niche and largely humorous term in gaming culture that refers to the act of rapidly triggering inputs—such as keyboard/mouse clicks or touchscreen taps—using one’s lips instead of fingers. The term combines “lip,” indicating the unconventional method of input, and “spam,” a common gaming term meaning to perform an action repeatedly at high speed. While it is not a widely recognized or officially documented technique, it has appeared in small communities and discussions as a curious or exaggerated idea centered around achieving very high input speed, often measured in clicks per second (CPS) or taps per second (TPS).
+                    </p>
+                    <p>
+                        In practice, lip spamming involves positioning the face close to a mouse or mobile device and using the lower lip to repeatedly press or vibrate against the input surface. This motion is intended to simulate or exceed the speed of traditional clicking methods such as jitter clicking, butterfly clicking, or drag clicking. On mobile devices, the same concept applies by tapping the screen with the lip instead of fingers. While the idea is theoretically capable of producing rapid inputs, the physical mechanics make it highly inconsistent and difficult to control, especially compared to standard hand-based techniques.
+                    </p>
+                    <p>
+                        The primary goal behind lip spamming, at least conceptually, is to maximize input speed in games where rapid clicking can provide an advantage. In certain contexts, such as PvP scenarios in Minecraft, higher CPS can influence combat mechanics like hit registration or knockback. However, even in these cases, lip spamming is not considered a viable or competitive method due to its lack of precision and reliability. Established techniques using fingers are far more effective and widely practiced among skilled players.
+                    </p>
+                    <p>
+                        Overall, lip spamming is best understood as a meme-like or experimental concept within gaming culture rather than a legitimate technique. It highlights the extremes of input-based gameplay and reflects the creativity and humor often found in gaming communities. While it shares conceptual similarities with real high-speed clicking methods, its impracticality, lack of control, and rarity in actual gameplay firmly place it in the realm of jokes, challenges, and curiosity rather than serious competitive use.
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up from 60fps to 480fps)
@@ -119,6 +135,10 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it but you wont get any list points.
+                    </p>
+                    <h3>Important Note</h3>
+                    <p>
+                        LSCL (or Lip Spam Challenge List) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way. This project operates independently, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List).
                     </p>
                 </div>
             </div>
