@@ -134,7 +134,10 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it but you wont get any list points.
+                        UFO-based challenges are unacceptable in here, except for classic ones like for example: Hellcat tutorial, sam family, clawbuckle never cle, sam x4, sam x3, tree sam & cherimoya ufo
+                    </p>
+                    <p>
+                        Once a level falls onto the Legacy List, we accept records for it but you wont get any list points
                     </p>
                     <h3>Important Note</h3>
                     <p>
