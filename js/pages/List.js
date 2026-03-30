@@ -134,6 +134,9 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
+                        A challenge must have to be up to around 9 to 29 seconds (either you want only tiny or short length for your own level)
+                    </p>
+                    <p>
                         UFO-based challenges are unacceptable here, except for classic ones like: tree sam little buff, Hellcat tutorial li, Hellcat tutorial, sam family, clawbuckle never cle, sam x4, sam x3, tree sam & cherimoya ufo
                     </p>
                     <p>
