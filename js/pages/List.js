@@ -137,7 +137,7 @@ export default {
                         UFO-based challenges are unacceptable here, except for classic ones like: tree sam little buff, Hellcat tutorial li, Hellcat tutorial, sam family, clawbuckle never cle, sam x4, sam x3, tree sam & cherimoya ufo
                     </p>
                     <p>
-                        Click Between Frames & Click Between Steps / Click On Steps is allowed, as long as if you show us proof that you did it on recorded level verifications and vaildated completions
+                        Click Between Frames & Click Between Steps / Click On Steps is allowed, as long as if you show us proof that you did them on recorded level verifications and vaildated completions
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it but you wont get any list points
