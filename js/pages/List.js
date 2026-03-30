@@ -142,7 +142,7 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it but you wont get any list points
                     </p>
-                    <h3>Important Note</h3>
+                    <h3>Important Notes</h3>
                     <p>
                         LSCL (or Lip Spam Challenge List) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way. This project operates independently, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List).
                     </p>
