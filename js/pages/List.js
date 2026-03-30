@@ -146,6 +146,9 @@ export default {
                     <p>
                         LSCL (or Lip Spam Challenge List) is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way. This project operates independently, similar to other community-run lists such as TSL (The Shitty List) and TLL (The Layout List).
                     </p>
+                    <p>
+                        If you want to get Click Between Frames (CBF) in Geometry Dash to play our challenges that have the FPS count as that, you must install the Geode mod loader. Once Geode is installed, open the mods menu in the game, search for "Click Between Frames" by syzzi, and install it. This mod allows inputs between physics ticks to reduce input lag.
+                    </p>
                 </div>
             </div>
         </main>
