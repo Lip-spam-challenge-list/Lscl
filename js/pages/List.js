@@ -125,7 +125,7 @@ export default {
                         Has to have source audio in the video. Edited audio only does not count
                     </p>
                     <p>
-                        The recording has to end minumum a bit after the last imput.
+                        The recording has to end minimum a bit after the last input
                     </p>
                     <p>
                         Do not use secret routes or bug routes
@@ -137,7 +137,7 @@ export default {
                         UFO-based challenges are unacceptable here, except for classic ones like: tree sam little buff, Hellcat tutorial li, Hellcat tutorial, sam family, clawbuckle never cle, sam x4, sam x3, tree sam & cherimoya ufo
                     </p>
                     <p>
-                        Click Between Frames & Click Between Steps / Click On Steps is allowed, as long as if you show us proof that you did them on recorded level verifications and vaildated completions
+                        Click Between Frames & Click Between Steps / Click On Steps are allowed, as long as if you show us proof that you did either of them on uncut recorded level verifications and vaildated completions
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it but you wont get any list points
