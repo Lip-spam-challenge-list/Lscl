@@ -8,5 +8,11 @@
     "fps": "60",
     "percentToQualify": 100,
     "records": [
+                                                        {
+            "user": "Angopr",
+            "link": "https://youtu.be/O1fduSCj-eo?si=O_odTEKOkhZNWn1Z",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
