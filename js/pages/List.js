@@ -134,7 +134,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        A challenge must have to be up around 9 to 29 seconds (either you want only tiny or short length for your own level).
+                        A REAL challenge must have to be up around 9 to 29 seconds (either you want only tiny or short length for your own level). However, it may seem like the Lip Spam "Challenge" List, but there is really much not a serious time limit rule for here. If there are levels that are over 30s long in the list, then they will be marked as red to indicate that they're over the 30 seconds mark while some players view this website
                     </p>
                     <p>
                         UFO-based challenges are unacceptable here, except for classic ones like: tree sam little buff, Hellcat tutorial li, Hellcat tutorial, sam family, clawbuckle never cle, sam x4, sam x3, tree sam & cherimoya ufo
