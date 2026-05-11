@@ -5,14 +5,20 @@
     "creators": ["JeDoesStuff, daunlabavoi"],
     "verifier": "GdMirror",
     "verification": "https://youtu.be/LVDBODgXROg?si=jDkYLh4du9lEL1b8",
-    "fps": "60",
+    "fps": "CBF",
     "percentToQualify": 100,
     "records": [
                                                                                                {
             "user": "Angopr",
             "link": "https://youtu.be/vzHGab0PbFQ?si=voQ5PXARhoWxJxPt",
             "percent": 100,
-            "hz": 60
+            "hz": "CBF",
+        },
+                                                                                                      {
+            "user": "Xed",
+            "link": "https://medal.tv/games/geometry-dash/clips/mDnTiWytk_Rt1Kzwz?invite=cr-MSx6OWMsNDI2OTQ3NzUx",
+            "percent": 100,
+            "hz": "CBF",
         }
     ]
 }
