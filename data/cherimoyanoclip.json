@@ -8,5 +8,11 @@
     "fps": "60",
     "percentToQualify": 100,
     "records": [
+                                                                                                       {
+            "user": "Dan",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1486786873324998958",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
