@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "fps":120,
     "records": [
+                                                        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/z5YCS3l_amU",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
