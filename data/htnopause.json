@@ -8,6 +8,12 @@
     "fps": "CBF",
     "percentToQualify": 100,
     "records": [
+                     {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=IGiL7wE6UU0",
+            "percent": 100,
+            "hz": "CBF"
+        }
         
     ]
 }
