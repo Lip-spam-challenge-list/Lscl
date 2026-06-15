@@ -8,5 +8,17 @@
     "fps": "60",
     "percentToQualify": 100,
     "records": [
+                                                                               {
+            "user": "tFluffy",
+            "link": "https://www.youtube.com/watch?v=RD4uJAmcPyo,
+            "percent": 100,
+            "hz": "60"
+        },
+                                                                               {
+            "user": "G1rcy",
+            "link": "https://youtu.be/pmu17Wbdh4s",
+            "percent": 100,
+            "hz": "60"
+        }
     ]
 }
