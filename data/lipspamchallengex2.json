@@ -8,5 +8,13 @@
     "fps": "60",
     "percentToQualify": 100,
     "records": [
+    
+
+        {
+            "user": "aut0plays",
+            "link": "https://youtu.be/ma2qXi8jMA0",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
