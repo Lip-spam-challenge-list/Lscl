@@ -25,6 +25,13 @@
             "link": "https://www.youtube.com/watch?v=IGiL7wE6UU0",
             "percent": 100,
             "hz": "CBF"
-        }
+        },
+        {
+            "user": "aut0plays",
+            "link": "https://youtu.be/MEM2pud1Ii4",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
+
