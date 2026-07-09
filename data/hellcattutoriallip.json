@@ -25,6 +25,12 @@
             "link": "https://youtube.com/shorts/EjITyCzrgqc?si=f_C4ACW8G1Pc9JtA",
             "percent": 100,
             "hz": "CBF"
-        }
+        },
+        {
+            "user": "blessed",
+            "link": "https://youtu.be/2uF3ZCK0wrs?si=te_p9PWptnzPH_go",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
