@@ -8,5 +8,13 @@
     "fps": "CBF",
     "percentToQualify": 100,
     "records": [
+    
+
+        {
+            "user": "dan",
+            "link": "https://discord.com/channels/1430372330252664965/1463186280715391090/1526283154976014516",
+            "percent": 100,
+            "hz": "CBF" 
+         }
     ]
 }
