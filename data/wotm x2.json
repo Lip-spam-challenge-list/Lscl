@@ -2,14 +2,15 @@
     "id": 129277931,
     "name": "stuck in a desert",
     "author": "angopr",
-    "creators": [1],
+    "creators": ["JeDoesStuff"],
     "verifier": "blessed",
     "verification": "https://youtu.be/GVM08nu92jI?si=vl3aPmHJF843EVo0",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "enjoyment": "9",
+    "fps": "CBF",
+    "percentToQualify": 100,
     "records": [
-    
+
+
+
         {
             "user": "dan",
             "link": "https://youtu.be/gKpi93FUX9Y",
