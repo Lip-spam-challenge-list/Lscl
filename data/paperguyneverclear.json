@@ -19,6 +19,12 @@
             "link": "https://youtube.com/shorts/KgQKakl-5Jo?si=ukq2gR1KTTtPocqp",
             "percent": 100,
             "hz": "CBF"
-        }
+        },
+        {
+            "user": "astroguy",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF" 
+         }
     ]
 }
