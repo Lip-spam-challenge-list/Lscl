@@ -14,19 +14,19 @@
             "user": "G1rcy",
             "link": "https://youtu.be/DnNaH-ZTqK4",
             "percent": 100,
-            "hz": 0
+            "hz": 80
          },
                 {
             "user": "angopr",
             "link": "https://youtu.be/qFTw1qqyubg?si=k-7ZSTMuxddhVIjT",
             "percent": 100,
-            "hz": 0
+            "hz": 80
          },
         {
             "user": "astroguy",
             "link": "",
             "percent": 100,
-            "hz": "CBF" 
+            "hz": "80" 
          }
     ]
 }
