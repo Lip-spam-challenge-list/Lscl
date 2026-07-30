@@ -21,6 +21,12 @@
             "link": "https://youtu.be/qFTw1qqyubg?si=k-7ZSTMuxddhVIjT",
             "percent": 100,
             "hz": 0
+         },
+        {
+            "user": "astroguy",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF" 
          }
     ]
 }
