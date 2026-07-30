@@ -8,12 +8,5 @@
     "fps": "120",
     "percentToQualify": 100,
     "records": [
-    
-        {
-            "user": "astroguy",
-            "link": "",
-            "percent": 100,
-            "hz": "120" 
-         }
     ]
-}
+} 
